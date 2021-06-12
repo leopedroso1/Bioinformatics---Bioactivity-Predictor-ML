@@ -1,4 +1,4 @@
-# :dna: Bioinformatics :electron: - Computational Drug Discovery
+# :dna: Bioinformatics :atom_symbol: - Computational Drug Discovery
 
  * **Type of Project:** Machine Learning / Artificial Intelligence
  * **Programming Languages:** Python 
