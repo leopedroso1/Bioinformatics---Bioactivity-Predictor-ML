@@ -10,6 +10,6 @@
 - [X] Step 3. Dataset Preparation: Prepare data for ML model
 - [X] Step 4. Model Establishment + Comparison
 - [X] Step 5. Improve Model Performance: Tuning random forest regressor hyperparameters 
-- [X] Step 6. Web App for dynamic analysis - Under Construction
+- [ ] Step 6. Web App for dynamic analysis - Under Construction
 
 All notebooks are designed for a simple run, just open in the Google Colaboratory and run!
